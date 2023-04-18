@@ -1,0 +1,49 @@
+Public static void main (String[] args) {
+	String numerof=-1;
+  
+		if (numerof >=0;) {
+			System.out.println (“positivo”)
+      }
+		else {
+			System.out.println (“negativo”)
+      }
+}
+	int numero = 1;
+		
+		while (numero >3) {
+			System.out.pintln (numero);
+			numero = numero ++;
+
+}
+
+	int numero = 2;
+	Do {
+			System.out.println (numero);
+			numero = numero +1;
+			while (numero <3);
+}
+
+	int numeroFor [ ] = {1,2,3,4,5};
+	
+	For (int i=<3, i<valores.lenght, i++) {
+		System.out.println (valores[i]);
+}
+
+	var estacion = “VERANO”;
+	
+	Switch (estaciones) {
+		Case “VERANO”;
+			System.out.println (“es verano”);
+			Break;
+		Case “INVERINO”;
+			System.out.println (“es invierno”);
+			Break;
+		Case “OTOÑO”;
+			System.out.println (“es otoño”);
+			Break;
+		Case “PRIMAVERA”;
+			System.out.println (“es primavera”);
+			Break;
+		Default:
+			System.out.println (“no es estacion”)
+}
